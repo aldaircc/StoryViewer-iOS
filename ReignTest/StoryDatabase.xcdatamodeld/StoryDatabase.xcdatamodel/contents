@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20F71" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="StoryObject" representedClassName="StoryObject" syncable="YES" codeGenerationType="class">
+        <attribute name="createdAt" optional="YES" attributeType="String"/>
+        <attribute name="isRemoved" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="objectId" optional="YES" attributeType="String"/>
+        <attribute name="story_author" optional="YES" attributeType="String"/>
+        <attribute name="story_title" optional="YES" attributeType="String"/>
+        <attribute name="storyURL" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="StoryObject" positionX="-63" positionY="-18" width="128" height="119"/>
+    </elements>
+</model>
