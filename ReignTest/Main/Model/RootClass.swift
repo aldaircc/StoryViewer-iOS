@@ -7,7 +7,7 @@
 
 import Foundation
 
-// MARK: - Welcome
+// MARK: - RootClass
 struct RootClass: Codable {
     let hits: [Hit]
     let nbHits, page, nbPages, hitsPerPage: Int
